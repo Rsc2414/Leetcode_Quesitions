@@ -15,5 +15,4 @@ class Solution:
                 ans = min(ans,a)
         
         return ans
-
         
